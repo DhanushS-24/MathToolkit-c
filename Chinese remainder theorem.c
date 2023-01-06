@@ -55,4 +55,5 @@ int main() {
     printf("\nThe solution is : x congruent to %d (mod %d)\n", x % M, M);
 
     return 0;
+    
 }
