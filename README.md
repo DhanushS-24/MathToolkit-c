@@ -39,6 +39,6 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out. You can contact the repository maintainer at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out. You can contact the repository maintainer at [dhanushs2402@gmail.com](mailto:dhanushs2402@gmail.com).
 
 Happy coding!
